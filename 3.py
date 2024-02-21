@@ -1,6 +1,6 @@
 a=1
 while a<10:
-    print(a) 
+    print("merge changes") 
     a=a+1
 print("bye")
 print("welcome")
