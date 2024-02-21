@@ -4,3 +4,4 @@ while a<10:
     a=a+1
 print("bye")
 print("welcome")
+print("print the value love")
