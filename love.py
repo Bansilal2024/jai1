@@ -1,2 +1,2 @@
 print("I Love You Madhavi")
-a=200
+a=100
